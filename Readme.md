@@ -8,7 +8,6 @@ This repository encompasses all reports, datasets, and scripts developed during 
 
 * **`data/`**: Contains raw and processed datasets, including electricity consumption figures, GDP statistics, COVID-19 case numbers, and renewable energy metrics.
 * **`literature_review/`**: Summaries and analyses of existing research papers and articles relevant to Indian energy economics.
-* **`statistical_analysis/`**: Jupyter notebooks and scripts performing statistical analyses, visualizations, and modeling.
 * **`tools_scripts/`**: Utility scripts for data cleaning, transformation, and other preprocessing tasks.
 * **`draft/`**: Preliminary drafts of reports and findings compiled during the internship.
 
