@@ -1,3 +1,6 @@
+
+# Since the introduction of various APIs for the data on Power Supply in India, the project is redundant.
+
 # Energy Economics Research Internship
 
 ## Overview
